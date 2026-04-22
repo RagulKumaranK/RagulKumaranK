@@ -4,7 +4,7 @@
 
 🎯 **Current Focus:** Building production-ready applications with end-to-end deployment pipelines
 
-I'm a passionate developer following a structured **9-month Full Stack + DevOps roadmap**, integrating modern development practices with CI/CD, containerization, and cloud deployment from day one.
+I'm a passionate developer following a structured Full Stack + DevOps roadmap**, integrating modern development practices with CI/CD, containerization, and cloud deployment from day one.
 
 ---
 
@@ -34,29 +34,6 @@ I'm a passionate developer following a structured **9-month Full Stack + DevOps 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🎓 [Student Management System](https://github.com/RagulKumaranK/student-management)
-**Full Stack CRUD Application with CI/CD**
-- **Stack:** Spring Boot, React, MySQL, Docker
-- **Features:** Complete CRUD operations, REST APIs, Responsive UI
-- **DevOps:** GitHub Actions pipeline, Dockerized deployment
-- 🔗 [Live Demo](#) | 📄 [API Docs](#)
-
-### 📊 [DSA Tracker](https://github.com/RagulKumaranK/DSA-Tracker)
-**Problem-Solving Progress Dashboard**
-- **Stack:** JavaScript, HTML, CSS
-- **Features:** Track DSA problems, Progress visualization
-- 🔗 [Live Demo](#)
-
-### 💼 [Portfolio Website](https://github.com/RagulKumaranK/my-portfolio)
-**Personal Portfolio with Modern Design**
-- **Stack:** HTML5, CSS3, JavaScript
-- **Features:** Responsive design, Project showcase
-- 🔗 [Live Site](#)
 
 ---
 
@@ -102,9 +79,9 @@ This approach ensures I don't just write code—I ship production-ready applicat
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ragulkumaran)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ragulkumaran.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ragul@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragulkumarank/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ragulkumar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ragulkumarank@gmail.com)
 
 ---
 
